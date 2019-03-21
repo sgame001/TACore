@@ -357,6 +357,12 @@
     <Reference Include="Sirenix.Serialization.Config">
       <HintPath>E:/wzx/TACore/Assets/Plugins/Sirenix/Assemblies/Sirenix.Serialization.Config.dll</HintPath>
     </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>E:/wzx/TACore/Assets/Plugins/DOTween/Editor/DOTweenEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>E:/wzx/TACore/Assets/Plugins/DOTween/DOTween.dll</HintPath>
+    </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/UNITY2018.2/Unity/Editor/Data/MonoBleedingEdge/lib/mono/2.0-api/mscorlib.dll</HintPath>
     </Reference>
