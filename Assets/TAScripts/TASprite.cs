@@ -37,9 +37,10 @@ public class TASprite : MonoBehaviour {
     /// <summary>
     /// 释放 精灵
     /// </summary>
-    public virtual void _Release()
+    public virtual void _ReleaseSelf()
     {
         //暂时先隐藏/销毁自己，之后要回收到对象池。
+        Debug.Log("Release 回收 Bullet!!");
         Destroy(this.gameObject);
     }
 }

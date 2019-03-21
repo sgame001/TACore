@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TAScripts\TABullet.cs" />
+    <Compile Include="Assets\TAScripts\TAGun.cs" />
     <Compile Include="Assets\TAScripts\TASprite.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>E:/wzx/TACore/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
